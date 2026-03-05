@@ -1,0 +1,2 @@
+# chomp
+Formal language for logic and philosophy.
